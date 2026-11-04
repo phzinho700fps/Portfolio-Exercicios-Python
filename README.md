@@ -1,1 +1,4 @@
-# Portfolio-Exercicios-Python
+Olá, seja bem vindo ao meu portfólio. Usando meus conhecimentos na Linguagem de programação Python, realizei alguns exercícios simples e disponibilizei para acesso público. Todos os códigos contam com comentários explicativos, e nenhum deles foi feito utilizando IA. Irei atualizar esse portfólio com novos exercícios sempre que houver disponibilidade.
+
+Meu nome é Pedro Henrique Florencio, sou estudante de TI no Colégio Paulo de Tarso, ganhando experiência constantemente em linguagens de programação e em outras áreas, como IA. No momento que escrevo isto, estou realizando um curso de AI-900 Azure com a fundação Bradesco, onde estou obtendo diversos conhecimentos sobre especificidade em prompts, modelos de treinamento, ética sobre uso de ia, etc.
+Também procuro melhorar no inglês, no qual possuo um ótimo conhecimento, mas aplico pouco na fala e escrita.
